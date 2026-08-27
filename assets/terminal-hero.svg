@@ -48,7 +48,7 @@
     <rect x="272" width="126" height="35" rx="7" fill="#10141B" stroke="#2A303B"/><text x="284" y="15" class="mono label">SIGNAL</text><text x="284" y="27" class="mono violet" font-size="10">SHIPPING</text>
   </g>
 
-  <text x="40" y="320" class="mono" font-size="11" fill="#6B7280">arthoqox@hackbook</text><text x="159" y="320" class="mono" font-size="11" fill="#F4F7FB">:</text><text x="166" y="320" class="mono" font-size="11" fill="#9B87FF">~/ideas</text><text x="219" y="320" class="mono" font-size="11" fill="#F4F7FB">$ build --beyond-expected</text><rect x="381" y="309" width="7" height="14" rx="1" fill="#43E6B5" class="blink"/>
+  <text x="40" y="320" class="mono" font-size="11" fill="#6B7280">arthoqox@agency</text><text x="151" y="320" class="mono" font-size="11" fill="#F4F7FB">:</text><text x="158" y="320" class="mono" font-size="11" fill="#9B87FF">~/ideas</text><text x="211" y="320" class="mono" font-size="11" fill="#F4F7FB">$ build --beyond-expected</text><rect x="373" y="309" width="7" height="14" rx="1" fill="#43E6B5" class="blink"/>
 
   <g transform="translate(526 76)">
     <rect width="434" height="256" rx="12" fill="#0C0F15" fill-opacity=".88" stroke="#282E38"/>

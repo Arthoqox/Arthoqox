@@ -12,7 +12,7 @@
 </div>
 
 ```console
-arthoqox@hackbook:~$ ./identity --verbose
+arthoqox@agency:~$ ./identity --verbose
 [ ok ] USER        Arthoqox / Андрей
 [ ok ] ROLE        developer · digital builder · systems thinker
 [ ok ] MODE        building
@@ -93,39 +93,18 @@ direction      reliable systems with calm, precise UX
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arthoqox&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=080b10&title_color=43e6b5&text_color=a7b0be&icon_color=9b87ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arthoqox&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=f8fafc&title_color=047857&text_color=334155&icon_color=6d5dfc">
-  <img height="176" src="https://github-readme-stats.vercel.app/api?username=Arthoqox&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=080b10&title_color=43e6b5&text_color=a7b0be&icon_color=9b87ff" alt="Arthoqox GitHub statistics">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Arthoqox&hide_border=true&background=080B10&ring=43E6B5&fire=9B87FF&currStreakLabel=43E6B5&sideLabels=A7B0BE&dates=697281&sideNums=F4F7FB&currStreakNum=F4F7FB">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Arthoqox&hide_border=true&background=F8FAFC&ring=047857&fire=6D5DFC&currStreakLabel=047857&sideLabels=334155&dates=64748B&sideNums=0F172A&currStreakNum=0F172A">
-  <img height="176" src="https://streak-stats.demolab.com?user=Arthoqox&hide_border=true&background=080B10&ring=43E6B5&fire=9B87FF&currStreakLabel=43E6B5&sideLabels=A7B0BE&dates=697281&sideNums=F4F7FB&currStreakNum=F4F7FB" alt="Arthoqox contribution streak">
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthoqox&bg_color=080b10&color=a7b0be&line=43e6b5&point=9b87ff&area=true&area_color=12352f&hide_border=true&custom_title=ARTHOQOX%20%2F%2F%20EVENT%20STREAM">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arthoqox&bg_color=f8fafc&color=334155&line=047857&point=6d5dfc&area=true&area_color=d1fae5&hide_border=true&custom_title=ARTHOQOX%20%2F%2F%20EVENT%20STREAM">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arthoqox&bg_color=080b10&color=a7b0be&line=43e6b5&point=9b87ff&area=true&area_color=12352f&hide_border=true&custom_title=ARTHOQOX%20%2F%2F%20EVENT%20STREAM" alt="Arthoqox activity graph">
-</picture>
+<img src="assets/telemetry.svg" width="100%" alt="Arthoqox local telemetry">
 
 </div>
 
-## `04 // contribution_daemon`
+## `04 // signal_daemon`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthoqox/Arthoqox/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthoqox/Arthoqox/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Arthoqox/Arthoqox/output/github-contribution-grid-snake.svg" alt="Animated contribution process">
-  </picture>
+  <img src="assets/signal-daemon.svg" width="100%" alt="Arthoqox signal daemon">
 </div>
 
 ```console
-arthoqox@hackbook:~$ connection --status
+arthoqox@agency:~$ connection --status
 channel     github.com/Arthoqox
 access      public
 state       open_to_interesting_ideas

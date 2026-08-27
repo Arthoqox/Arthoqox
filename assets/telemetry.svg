@@ -1,0 +1,19 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Arthoqox local telemetry interface">
+  <defs>
+    <linearGradient id="trace" x1="52" y1="0" x2="948" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#9B87FF"/><stop offset=".52" stop-color="#43E6B5"/><stop offset="1" stop-color="#5BC8FF"/></linearGradient>
+    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" stroke="#94A3B8" stroke-opacity=".045"/></pattern>
+    <style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}.l{font-size:9px;letter-spacing:1.25px;fill:#6E7786}.v{font-size:12px;fill:#E5E9F0}.pulse{animation:p 2.2s ease-in-out infinite}@keyframes p{0%,100%{opacity:.35}50%{opacity:1}}</style>
+  </defs>
+  <rect x=".5" y=".5" width="999" height="279" rx="14" fill="#080B10" stroke="#282E38"/><rect x="1" y="1" width="998" height="278" rx="13" fill="url(#grid)"/>
+  <path d="M24 44H976" stroke="#252B34"/><text x="24" y="28" class="m l">LOCAL TELEMETRY / ZERO EXTERNAL DEPENDENCIES</text><circle cx="950" cy="25" r="4" fill="#43E6B5" class="pulse"/><text x="904" y="29" class="m" font-size="9" fill="#43E6B5">NOMINAL</text>
+  <g class="m">
+    <rect x="24" y="62" width="220" height="76" rx="9" fill="#0F131A" stroke="#2A303B"/><text x="40" y="84" class="l">IDENTITY</text><text x="40" y="109" class="v">ARTHOQOX</text><text x="40" y="126" font-size="9" fill="#9B87FF">verified locally</text>
+    <rect x="256" y="62" width="220" height="76" rx="9" fill="#0F131A" stroke="#2A303B"/><text x="272" y="84" class="l">OPERATING MODE</text><text x="272" y="109" class="v">BUILDING</text><text x="272" y="126" font-size="9" fill="#43E6B5">continuous</text>
+    <rect x="488" y="62" width="220" height="76" rx="9" fill="#0F131A" stroke="#2A303B"/><text x="504" y="84" class="l">SYSTEM STATE</text><text x="504" y="109" class="v">ONLINE</text><text x="504" y="126" font-size="9" fill="#5BC8FF">all checks passed</text>
+    <rect x="720" y="62" width="256" height="76" rx="9" fill="#0F131A" stroke="#2A303B"/><text x="736" y="84" class="l">NEXT ITERATION</text><text x="736" y="109" class="v">UNBOUNDED</text><text x="736" y="126" font-size="9" fill="#F6D365">awaiting new signal</text>
+  </g>
+  <path d="M24 186C64 183 72 208 111 197S167 173 205 188 253 220 302 194 363 176 400 194 445 209 486 190 547 169 587 187 645 215 689 193 735 178 775 192 833 207 872 183 923 181 976 165" stroke="url(#trace)" stroke-width="2.5" fill="none"/>
+  <path d="M24 214H976" stroke="#252B34" stroke-dasharray="2 7"/>
+  <circle cx="111" cy="197" r="4" fill="#9B87FF"/><circle cx="302" cy="194" r="4" fill="#43E6B5"/><circle cx="486" cy="190" r="4" fill="#5BC8FF"/><circle cx="689" cy="193" r="4" fill="#43E6B5"/><circle cx="872" cy="183" r="4" fill="#9B87FF"/>
+  <text x="24" y="245" class="m l">SIGNAL</text><text x="76" y="245" class="m" font-size="10" fill="#43E6B5">STABLE</text><text x="184" y="245" class="m l">NOISE</text><text x="228" y="245" class="m" font-size="10" fill="#5BC8FF">FILTERED</text><text x="350" y="245" class="m l">INTENT</text><text x="401" y="245" class="m" font-size="10" fill="#9B87FF">LOCKED</text><text x="514" y="245" class="m l">FAILURE MODE</text><text x="606" y="245" class="m" font-size="10" fill="#43E6B5">RECOVER</text><text x="748" y="245" class="m l">AGENCY</text><text x="802" y="245" class="m" font-size="10" fill="#F4F7FB">ACTIVE</text>
+</svg>
