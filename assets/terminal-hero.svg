@@ -39,13 +39,13 @@
   <text x="58" y="91" class="mono" font-size="12" fill="#43E6B5">whoami</text>
   <text x="40" y="142" class="mono" font-size="43" font-weight="750" letter-spacing="-2" fill="#F4F7FB">ARTHOQOX</text>
   <rect x="40" y="156" width="422" height="2" rx="1" fill="url(#line)"/>
-  <text x="40" y="184" class="mono body">developer / digital builder / systems thinker</text>
-  <text x="40" y="211" class="mono" font-size="11" fill="#697281">turning curiosity into working systems</text>
+  <text x="40" y="184" class="mono body">software engineer / pentester / open-source builder</text>
+  <text x="40" y="211" class="mono" font-size="11" fill="#697281">Python · security · web · design engineering · UX</text>
 
   <g transform="translate(40 244)">
     <rect width="126" height="35" rx="7" fill="#10141B" stroke="#2A303B"/><text x="12" y="15" class="mono label">MODE</text><text x="12" y="27" class="mono green" font-size="10">BUILDING</text>
-    <rect x="136" width="126" height="35" rx="7" fill="#10141B" stroke="#2A303B"/><text x="148" y="15" class="mono label">FOCUS</text><text x="148" y="27" class="mono cyan" font-size="10">AUTOMATION</text>
-    <rect x="272" width="126" height="35" rx="7" fill="#10141B" stroke="#2A303B"/><text x="284" y="15" class="mono label">SIGNAL</text><text x="284" y="27" class="mono violet" font-size="10">SHIPPING</text>
+    <rect x="136" width="126" height="35" rx="7" fill="#10141B" stroke="#2A303B"/><text x="148" y="15" class="mono label">FOCUS</text><text x="148" y="27" class="mono cyan" font-size="10">OPEN SOURCE</text>
+    <rect x="272" width="126" height="35" rx="7" fill="#10141B" stroke="#2A303B"/><text x="284" y="15" class="mono label">SECURITY</text><text x="284" y="27" class="mono violet" font-size="10">OFFENSIVE</text>
   </g>
 
   <text x="40" y="320" class="mono" font-size="11" fill="#6B7280">arthoqox@agency</text><text x="151" y="320" class="mono" font-size="11" fill="#F4F7FB">:</text><text x="158" y="320" class="mono" font-size="11" fill="#9B87FF">~/ideas</text><text x="211" y="320" class="mono" font-size="11" fill="#F4F7FB">$ build --beyond-expected</text><rect x="373" y="309" width="7" height="14" rx="1" fill="#43E6B5" class="blink"/>
@@ -73,6 +73,6 @@
 
   <rect x="0" y="-80" width="1000" height="60" fill="#43E6B5" fill-opacity=".025" class="scan"/>
   <path d="M40 358H960" stroke="#242A33"/>
-  <text x="40" y="378" class="mono label">SYS / AUTOMATION / INFRASTRUCTURE / PRODUCT ENGINEERING / AI</text>
+  <text x="40" y="378" class="mono label">PYTHON / OPEN SOURCE / PENTEST / WEB / UI·UX / DESIGN ENGINEERING</text>
   <text x="872" y="378" class="mono" font-size="9" fill="#43E6B5">BUILD 2026.08</text>
 </svg>

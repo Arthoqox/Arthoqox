@@ -14,14 +14,14 @@
 ```console
 arthoqox@agency:~$ ./identity --verbose
 [ ok ] USER        Arthoqox / Андрей
-[ ok ] ROLE        developer · digital builder · systems thinker
+[ ok ] ROLE        software engineer · pentester · design engineer
 [ ok ] MODE        building
 [ ok ] ENERGY      curiosity → experiment → production
-[ ok ] INTERESTS   automation / infrastructure / product engineering / AI
+[ ok ] INTERESTS   open source / Python / security / web / UI & UX / AI
 [ ok ] RULE        if it can be simpler, faster or smarter — rebuild it
 ```
 
-> I take ideas that initially look too ambitious and turn them into real, usable systems. I care equally about what happens under the hood and how the final experience feels in the hands of a person.
+> I build open-source software, explore offensive security and turn complex technical ideas into focused products. Python is one of my primary tools, but I work across the stack — from protocols and backend systems to interfaces, visual language and UX.
 
 <img src="assets/system-map.svg" width="100%" alt="Arthoqox capability matrix">
 
@@ -34,16 +34,16 @@ arthoqox@agency:~$ ./identity --verbose
 #### `~/what-i-build`
 
 ```yaml
-ideas:
-  state: always_processing
-approach:
-  sequence: [explore, build, break, improve]
-quality:
-  priority: clarity_over_noise
-systems:
-  character: resilient_by_design
-direction:
-  constraint: none
+profile:
+  type: multidisciplinary_engineer
+  roles: [developer, pentester, open_source_builder]
+core:
+  language: Python
+  range: backend_to_interface
+craft:
+  includes: [software, security, web, ui, ux]
+method:
+  sequence: [research, build, test, break, improve]
 ```
 
 </td>
@@ -65,31 +65,98 @@ direction:
 </tr>
 </table>
 
-## `02 // loaded_modules`
+## `02 // engineering_surface`
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0D12?style=for-the-badge&logo=typescript&logoColor=5BC8FF)
-![Node.js](https://img.shields.io/badge/Node.js-0B0D12?style=for-the-badge&logo=nodedotjs&logoColor=43E6B5)
 ![Python](https://img.shields.io/badge/Python-0B0D12?style=for-the-badge&logo=python&logoColor=F6D365)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0D12?style=for-the-badge&logo=postgresql&logoColor=8CB4FF)
-![Redis](https://img.shields.io/badge/Redis-0B0D12?style=for-the-badge&logo=redis&logoColor=FF6B81)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0D12?style=for-the-badge&logo=typescript&logoColor=5BC8FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0D12?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-0B0D12?style=for-the-badge&logo=go&logoColor=5BC8FF)
+![Bash](https://img.shields.io/badge/Bash-0B0D12?style=for-the-badge&logo=gnubash&logoColor=43E6B5)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B0D12?style=for-the-badge&logo=fastapi&logoColor=43E6B5)
+![React](https://img.shields.io/badge/React-0B0D12?style=for-the-badge&logo=react&logoColor=5BC8FF)
 ![Docker](https://img.shields.io/badge/Docker-0B0D12?style=for-the-badge&logo=docker&logoColor=5BC8FF)
 ![Linux](https://img.shields.io/badge/Linux-0B0D12?style=for-the-badge&logo=linux&logoColor=F4F7FB)
-![Git](https://img.shields.io/badge/Git-0B0D12?style=for-the-badge&logo=git&logoColor=F97316)
-![Telegram](https://img.shields.io/badge/Telegram-0B0D12?style=for-the-badge&logo=telegram&logoColor=5BC8FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0D12?style=for-the-badge&logo=postgresql&logoColor=8CB4FF)
+![Figma](https://img.shields.io/badge/Figma-0B0D12?style=for-the-badge&logo=figma&logoColor=9B87FF)
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### `software_engineering`
+
 ```text
-runtime        TypeScript / Node.js / Python
-data           PostgreSQL / Redis
-operations     Docker / Linux / Git
-interfaces     human-first tools / APIs / control surfaces
-direction      reliable systems with calm, precise UX
+languages      Python · TypeScript · JavaScript · Go · Bash
+backend        APIs · async systems · automation · data flows
+frontend       React · component architecture · responsive web
+data           PostgreSQL · Redis · structured pipelines
+platform       Linux · Docker · Git · CI/CD · observability
 ```
 
-## `03 // public_telemetry`
+</td>
+<td width="50%" valign="top">
+
+#### `offensive_security`
+
+```text
+role           penetration tester / security researcher
+methodology    recon · enumeration · validation · reporting
+web            OWASP · auth flows · API security · attack surface
+tooling        Burp Suite · Nmap · Wireshark · custom Python
+principle      understand systems by testing their boundaries
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### `open_source`
+
+```text
+focus          tools that solve real problems
+craft          clean APIs · useful defaults · documentation
+workflow       issues · reviews · releases · maintenance
+values         transparency · iteration · shared knowledge
+status         building in public when it makes sense
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### `web_design_and_ux`
+
+```text
+design         UI systems · visual hierarchy · typography
+experience     flows · interaction · information architecture
+quality        responsive · accessible · fast · intentional
+tooling        Figma · design tokens · prototypes · frontend
+goal           interfaces that make complexity feel obvious
+```
+
+</td>
+</tr>
+</table>
+
+## `03 // engineering_manifesto`
+
+```diff
++ create tools people actually want to use
++ treat security as part of architecture, not a final checklist
++ make open source understandable, maintainable and documented
++ connect engineering decisions with interface decisions
++ automate repetition and preserve human judgment
++ test assumptions against reality
+- technology choices made only for fashion
+- visual polish without usability
+- security claims without verification
+```
+
+## `04 // public_telemetry`
 
 <div align="center">
 
@@ -97,7 +164,7 @@ direction      reliable systems with calm, precise UX
 
 </div>
 
-## `04 // signal_daemon`
+## `05 // signal_daemon`
 
 <div align="center">
   <img src="assets/signal-daemon.svg" width="100%" alt="Arthoqox signal daemon">
