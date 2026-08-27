@@ -83,64 +83,7 @@ method:
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### `software_engineering`
-
-```text
-languages      Python · TypeScript · JavaScript · Go · Bash
-backend        APIs · async systems · automation · data flows
-frontend       React · component architecture · responsive web
-data           PostgreSQL · Redis · structured pipelines
-platform       Linux · Docker · Git · CI/CD · observability
-```
-
-</td>
-<td width="50%" valign="top">
-
-#### `offensive_security`
-
-```text
-role           penetration tester / security researcher
-methodology    recon · enumeration · validation · reporting
-web            OWASP · auth flows · API security · attack surface
-tooling        Burp Suite · Nmap · Wireshark · custom Python
-principle      understand systems by testing their boundaries
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### `open_source`
-
-```text
-focus          tools that solve real problems
-craft          clean APIs · useful defaults · documentation
-workflow       issues · reviews · releases · maintenance
-values         transparency · iteration · shared knowledge
-status         building in public when it makes sense
-```
-
-</td>
-<td width="50%" valign="top">
-
-#### `web_design_and_ux`
-
-```text
-design         UI systems · visual hierarchy · typography
-experience     flows · interaction · information architecture
-quality        responsive · accessible · fast · intentional
-tooling        Figma · design tokens · prototypes · frontend
-goal           interfaces that make complexity feel obvious
-```
-
-</td>
-</tr>
-</table>
+<img src="assets/engineering-surface.svg" width="100%" alt="Software engineering, offensive security, open source and design engineering">
 
 ## `03 // engineering_manifesto`
 
