@@ -1,0 +1,78 @@
+<svg width="1000" height="390" viewBox="0 0 1000 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Arthoqox hacker terminal identity</title>
+  <desc id="desc">A detailed dark developer terminal interface presenting Arthoqox, systems, automation and current activity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07090D"/><stop offset="0.55" stop-color="#0B0D13"/><stop offset="1" stop-color="#070A0C"/>
+    </linearGradient>
+    <linearGradient id="line" x1="72" y1="0" x2="930" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D5DFC"/><stop offset="0.48" stop-color="#43E6B5"/><stop offset="1" stop-color="#5BC8FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(724 188) rotate(90) scale(245 340)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#43E6B5" stop-opacity=".12"/><stop offset="1" stop-color="#43E6B5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity=".045"/>
+    </pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}
+      .label{font-size:10px;letter-spacing:1.5px;fill:#6B7280}.body{font-size:12px;fill:#A7B0BE}.muted{fill:#697281}.green{fill:#43E6B5}.cyan{fill:#5BC8FF}.violet{fill:#9B87FF}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}.blink{animation:blink 1.05s steps(2,end) infinite}.scan{animation:scan 6s linear infinite}
+      @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes blink{50%{opacity:0}}@keyframes scan{from{transform:translateY(-70px)}to{transform:translateY(450px)}}
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="999" height="389" rx="18" fill="url(#bg)" stroke="#272B35"/>
+  <rect x="1" y="1" width="998" height="388" rx="17" fill="url(#grid)"/>
+  <rect width="1000" height="390" rx="18" fill="url(#glow)"/>
+  <circle cx="690" cy="180" r="96" fill="#43E6B5" fill-opacity=".025" stroke="#43E6B5" stroke-opacity=".08"/>
+  <circle cx="690" cy="180" r="68" stroke="#5BC8FF" stroke-opacity=".07" stroke-dasharray="2 8"/>
+
+  <path d="M1 52H999" stroke="#272B35"/>
+  <circle cx="24" cy="26" r="5" fill="#FF5F57"/><circle cx="42" cy="26" r="5" fill="#FEBC2E"/><circle cx="60" cy="26" r="5" fill="#28C840"/>
+  <text x="86" y="30" class="mono label">ARTHOQOX / CONTROL SURFACE</text>
+  <rect x="752" y="15" width="92" height="23" rx="11.5" fill="#43E6B5" fill-opacity=".08" stroke="#43E6B5" stroke-opacity=".22"/>
+  <circle cx="769" cy="26.5" r="3.5" fill="#43E6B5" class="pulse"/><text x="780" y="30" class="mono" font-size="9" fill="#78F3CF">ONLINE</text>
+  <text x="870" y="30" class="mono label">UTC+05:00</text>
+
+  <text x="40" y="91" class="mono" font-size="12" fill="#6B7280">$</text>
+  <text x="58" y="91" class="mono" font-size="12" fill="#43E6B5">whoami</text>
+  <text x="40" y="142" class="mono" font-size="43" font-weight="750" letter-spacing="-2" fill="#F4F7FB">ARTHOQOX</text>
+  <rect x="40" y="156" width="422" height="2" rx="1" fill="url(#line)"/>
+  <text x="40" y="184" class="mono body">developer / digital builder / systems thinker</text>
+  <text x="40" y="211" class="mono" font-size="11" fill="#697281">turning curiosity into working systems</text>
+
+  <g transform="translate(40 244)">
+    <rect width="126" height="35" rx="7" fill="#10141B" stroke="#2A303B"/><text x="12" y="15" class="mono label">MODE</text><text x="12" y="27" class="mono green" font-size="10">BUILDING</text>
+    <rect x="136" width="126" height="35" rx="7" fill="#10141B" stroke="#2A303B"/><text x="148" y="15" class="mono label">FOCUS</text><text x="148" y="27" class="mono cyan" font-size="10">AUTOMATION</text>
+    <rect x="272" width="126" height="35" rx="7" fill="#10141B" stroke="#2A303B"/><text x="284" y="15" class="mono label">SIGNAL</text><text x="284" y="27" class="mono violet" font-size="10">SHIPPING</text>
+  </g>
+
+  <text x="40" y="320" class="mono" font-size="11" fill="#6B7280">arthoqox@hackbook</text><text x="159" y="320" class="mono" font-size="11" fill="#F4F7FB">:</text><text x="166" y="320" class="mono" font-size="11" fill="#9B87FF">~/ideas</text><text x="219" y="320" class="mono" font-size="11" fill="#F4F7FB">$ build --beyond-expected</text><rect x="381" y="309" width="7" height="14" rx="1" fill="#43E6B5" class="blink"/>
+
+  <g transform="translate(526 76)">
+    <rect width="434" height="256" rx="12" fill="#0C0F15" fill-opacity=".88" stroke="#282E38"/>
+    <path d="M0 42H434" stroke="#242A33"/>
+    <text x="18" y="26" class="mono label">LIVE PROCESS GRAPH</text><text x="338" y="26" class="mono" font-size="9" fill="#43E6B5">● HEALTHY</text>
+    <text x="18" y="66" class="mono label">INPUT</text><text x="116" y="66" class="mono label">PROCESS</text><text x="244" y="66" class="mono label">OUTPUT</text><text x="342" y="66" class="mono label">STATE</text>
+    <g class="mono" font-size="10">
+      <text x="18" y="94" fill="#9B87FF">curiosity</text><path d="M82 90H109" stroke="#343B47"/><circle cx="112" cy="90" r="3" fill="#9B87FF"/>
+      <text x="126" y="94" fill="#A7B0BE">experiment</text><path d="M190 90H237" stroke="#343B47"/><circle cx="240" cy="90" r="3" fill="#5BC8FF"/>
+      <text x="254" y="94" fill="#5BC8FF">system</text><path d="M300 90H335" stroke="#343B47"/><text x="350" y="94" fill="#43E6B5">running</text>
+      <text x="18" y="127" fill="#9B87FF">complexity</text><path d="M82 123H109" stroke="#343B47"/><circle cx="112" cy="123" r="3" fill="#9B87FF"/>
+      <text x="126" y="127" fill="#A7B0BE">compress</text><path d="M179 123H237" stroke="#343B47"/><circle cx="240" cy="123" r="3" fill="#5BC8FF"/>
+      <text x="254" y="127" fill="#5BC8FF">clarity</text><path d="M300 123H335" stroke="#343B47"/><text x="350" y="127" fill="#43E6B5">stable</text>
+      <text x="18" y="160" fill="#9B87FF">failure</text><path d="M64 156H109" stroke="#343B47"/><circle cx="112" cy="156" r="3" fill="#9B87FF"/>
+      <text x="126" y="160" fill="#A7B0BE">observe</text><path d="M174 156H237" stroke="#343B47"/><circle cx="240" cy="156" r="3" fill="#5BC8FF"/>
+      <text x="254" y="160" fill="#5BC8FF">recovery</text><path d="M307 156H335" stroke="#343B47"/><text x="350" y="160" fill="#43E6B5">ready</text>
+    </g>
+    <path d="M18 202C52 198 62 217 96 202S150 188 178 202 219 220 254 199 306 186 336 200 383 205 416 184" stroke="url(#line)" stroke-width="2" fill="none"/>
+    <path d="M18 218H416" stroke="#242A33" stroke-dasharray="2 6"/>
+    <text x="18" y="239" class="mono label">UPTIME</text><text x="76" y="239" class="mono green" font-size="10">99.99%</text><text x="147" y="239" class="mono label">LATENCY</text><text x="211" y="239" class="mono cyan" font-size="10">12ms</text><text x="270" y="239" class="mono label">NEXT</text><text x="310" y="239" class="mono violet" font-size="10">UNKNOWN</text>
+  </g>
+
+  <rect x="0" y="-80" width="1000" height="60" fill="#43E6B5" fill-opacity=".025" class="scan"/>
+  <path d="M40 358H960" stroke="#242A33"/>
+  <text x="40" y="378" class="mono label">SYS / AUTOMATION / INFRASTRUCTURE / PRODUCT ENGINEERING / AI</text>
+  <text x="872" y="378" class="mono" font-size="9" fill="#43E6B5">BUILD 2026.08</text>
+</svg>
