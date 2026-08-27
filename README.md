@@ -34,16 +34,16 @@ arthoqox@hackbook:~$ ./identity --verbose
 #### `~/what-i-build`
 
 ```yaml
-automation:
-  goal: remove repetitive work
-infrastructure:
-  interface: clear control surfaces
-products:
-  channels: [telegram, web, api]
-experiments:
-  intersection: networks × design × ai
-reliability:
-  assumption: reality_will_get_messy
+ideas:
+  state: always_processing
+approach:
+  sequence: [explore, build, break, improve]
+quality:
+  priority: clarity_over_noise
+systems:
+  character: resilient_by_design
+direction:
+  constraint: none
 ```
 
 </td>
@@ -65,36 +65,7 @@ reliability:
 </tr>
 </table>
 
-## `02 // current_process`
-
-```text
- PID   PROCESS       STATE      CPU   MEMORY    DESCRIPTION
- 001   HiDDENODE     BUILDING   72%   ACTIVE    private-access infrastructure tooling
- 002   automation    RUNNING    48%   STABLE    provisioning · lifecycle · recovery
- 003   telegram-ux   TUNING     31%   ACTIVE    fast control flows for complex systems
- 004   ai-systems    RESEARCH   18%   WARM      useful assistance with human control
-```
-
-<details>
-<summary><b>process/001 → HiDDENODE</b></summary>
-<br>
-
-My current large-scale build: automation and control tooling for private-access infrastructure. It is one active project in the wider Arthoqox system — not the identity of this profile.
-
-```mermaid
-flowchart LR
-    A[Operator] --> B[Telegram UX]
-    B --> C[Control Layer]
-    C --> D[Provisioning]
-    C --> E[Lifecycle]
-    C --> F[Observability]
-    D & E & F --> G[Infrastructure]
-    G -. telemetry .-> C
-```
-
-</details>
-
-## `03 // loaded_modules`
+## `02 // loaded_modules`
 
 <div align="center">
 
@@ -114,11 +85,11 @@ flowchart LR
 runtime        TypeScript / Node.js / Python
 data           PostgreSQL / Redis
 operations     Docker / Linux / Git
-interfaces     Telegram bots / APIs / control panels
+interfaces     human-first tools / APIs / control surfaces
 direction      reliable systems with calm, precise UX
 ```
 
-## `04 // public_telemetry`
+## `03 // public_telemetry`
 
 <div align="center">
 
@@ -143,7 +114,7 @@ direction      reliable systems with calm, precise UX
 
 </div>
 
-## `05 // contribution_daemon`
+## `04 // contribution_daemon`
 
 <div align="center">
   <picture>
